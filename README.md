@@ -6,6 +6,8 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 ## Programs Included 🚀
 
 1. Turtle animation
+2. Simple calculator
+3. Area calculator
 
 ## How to Use 🛠️
 
