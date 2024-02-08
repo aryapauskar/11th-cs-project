@@ -20,6 +20,7 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 6. currency conversion
 7. Find All the Divisors of an Integer
 8. The program reads the height in centimeters and then converts the height to feet and inches.
+9. Write a program that takes the number of terms and calculates the sum of the first N natural numbers.
 
 ## How to Use 🛠️
 
