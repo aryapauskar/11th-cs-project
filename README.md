@@ -24,6 +24,7 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 10. Program to Print Numbers in a Range Without using Loops
 11. Program to Print the Natural Numbers Summation Pattern
 12. Program to check if two numbers are amicable numbers
+13. Program to accept three distinct digits and print all possible combinations from the digits.
 
 ## How to Use 🛠️
 
