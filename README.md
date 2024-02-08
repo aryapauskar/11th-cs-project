@@ -3,6 +3,13 @@
 
 Welcome to the Python Basics Exploration repository! This project consists of 15 Python programs that delve into the fundamentals of Python programming. Whether you're a beginner or looking to refresh your Python skills, these programs are designed to help you grasp the basics with ease.
 
+## About Me
+- **School**: PM Shri Kendriya Vidyalaya No. 2 Belgaum Cantt.
+- **Topic**: Computer Science project
+- **Name**: Arya Pauskar
+- **Class**: 11th A
+- **Roll**: 21
+
 ## Programs Included 🚀
 
 1. Turtle animation
