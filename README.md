@@ -18,6 +18,8 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 4. Program to Check If Two Strings are Anagram
 5. Countdown time in Python
 6. currency conversion
+7. Find All the Divisors of an Integer
+8. The program reads the height in centimeters and then converts the height to feet and inches.
 
 ## How to Use 🛠️
 
