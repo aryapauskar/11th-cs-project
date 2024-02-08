@@ -23,6 +23,7 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 9. Write a program that takes the number of terms and calculates the sum of the first N natural numbers.
 10. Program to Print Numbers in a Range Without using Loops
 11. Program to Print the Natural Numbers Summation Pattern
+12. Program to check if two numbers are amicable numbers
 
 ## How to Use 🛠️
 
