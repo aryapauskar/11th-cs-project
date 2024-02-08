@@ -28,6 +28,10 @@ Each program is contained in its own file with comments providing instructions a
    git clone https://github.com/aryapauskar/11th-cs-project.git
    ```
 
+    OR
+
+    Go to `Code > Download ZIP` to have a copy of the repo on your local machine
+
 2. Navigate to the program directory you want to explore:
 
    ```bash
