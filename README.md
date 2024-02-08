@@ -22,6 +22,7 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 8. The program reads the height in centimeters and then converts the height to feet and inches.
 9. Write a program that takes the number of terms and calculates the sum of the first N natural numbers.
 10. Program to Print Numbers in a Range Without using Loops
+11. Program to Print the Natural Numbers Summation Pattern
 
 ## How to Use 🛠️
 
