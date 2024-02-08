@@ -17,6 +17,7 @@ Welcome to the Python Basics Exploration repository! This project consists of 15
 3. Area calculator
 4. Program to Check If Two Strings are Anagram
 5. Countdown time in Python
+6. currency conversion
 
 ## How to Use 🛠️
 
